@@ -6,6 +6,7 @@ groq
 langchain-google-genai
 langchain-groq
 selenium
+webdriver_manager
 beautifulsoup4
 lxml 
 html5lib
