@@ -1,8 +1,7 @@
 streamlit 
 langchain 
 langchain_ollama
-langchain_groq
-langchain_google_genai
+google-generativeai groq langchain-google-genai langchain-groq
 selenium
 beautifulsoup4
 lxml 
